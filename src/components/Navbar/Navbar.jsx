@@ -9,7 +9,7 @@ import Party from "../../assets/partying-face.png";
 const Navbar = () => {
     return (
         <nav className='navbar'>
-            <h1>MovieManiac</h1>
+            <h1>Movie Night</h1>
 
             <div className='navbar_links'>
                 <DarkMode />
